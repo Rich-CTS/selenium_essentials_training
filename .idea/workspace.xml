@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d638af47-6f95-457f-8b54-00efefc8e618" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/website.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/AutoCompletePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/CheckBoxPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/DatePickerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/DragAndDropPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/DropDownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/FileUploadPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/JavaScriptExecutorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/KeyPressPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/RadioButtonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/ScrollPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/pages/SwitchWindowPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/website/utils/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/website/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/website/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/files/your-file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2b61xztkvMak400f3w8nKyQdU2Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/richa/OneDrive/Documents/Selenium Projects/Selenium_Essential_Training/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestSuite.DatePickerTest.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.TestSuite.DropDownTest.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.TestSuite1Tests (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestSuite1Tests.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.TestSuiteTests.key_PressesTest.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/richa/OneDrive/Documents/Selenium Projects/Selenium_Essential_Training/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/richa/OneDrive/Documents/Selenium Projects/Selenium_Essential_Training/testng.xml">
+    <configuration name="C:/Users/richa/OneDrive/Documents/Selenium Projects/Selenium_Essential_Training/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Essential_Training" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Essential_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="website.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="website.TestSuite" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite1Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Essential_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.tests.TestSuite1Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite1Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Essential_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.tests.TestSuite1Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.key_PressesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Essential_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="website.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="website.TestSuite" />
+      <option name="METHOD_NAME" value="key_PressesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/richa/OneDrive/Documents/Selenium Projects/Selenium_Essential_Training/testng.xml" />
+        <item itemvalue="TestNG.TestSuite.key_PressesTest" />
+        <item itemvalue="TestNG.TestSuite1Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-8336523bb0d9-05f2e5ef" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d638af47-6f95-457f-8b54-00efefc8e618" name="Changes" comment="" />
+      <created>1705516952530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705516952530</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

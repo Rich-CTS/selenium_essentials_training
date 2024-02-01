@@ -1,0 +1,298 @@
+11:50:10.063 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+11:50:10.148 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+11:50:12.126 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+11:50:12.494 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+11:50:12.664 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+11:51:43.068 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+11:51:43.230 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+11:51:46.773 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+11:51:47.212 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+11:51:47.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+11:53:26.988 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+11:53:27.143 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+11:53:30.663 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+11:53:31.046 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+11:53:31.249 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:19:00.093 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+12:19:00.137 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+12:19:01.941 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+12:19:02.131 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+12:19:02.213 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:20:08.093 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+12:20:08.151 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+12:20:09.993 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+12:20:10.228 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+12:20:10.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:22:20.597 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+12:22:20.636 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+12:22:22.389 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+12:22:22.557 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+12:22:22.627 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:23:01.978 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+12:23:02.026 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+12:23:03.636 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+12:23:03.837 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+12:23:03.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:23:06.380 [TestNG-test=Set-1] INFO  website.pages.AutoCompletePage - Opening AutoCompletePage
+12:23:06.379 [TestNG-test=Set-2] INFO  website.pages.DropDownPage - Opening DropDownPage
+12:23:07.396 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+12:23:07.436 [TestNG-test=Set-2] INFO  website.pages.DropDownPage - Expand drop down menu.
+12:23:08.392 [TestNG-test=Set-1] INFO  website.pages.AutoCompletePage - Entering address to search for: 1555 Park Blvd, Palo Alto, CA
+12:23:08.392 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: autocomplete
+12:23:08.619 [TestNG-test=Set-1] INFO  website.pages.AutoCompletePage - Selecting result
+12:23:08.619 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.className: pac-item
+12:23:39.075 [TestNG-test=Set-1] ERROR website.pages.BasePage - Element By.className: pac-item was not found within the specified timeout
+12:26:15.580 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+12:26:15.619 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+12:26:17.334 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+12:26:17.550 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+12:26:17.645 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:26:19.328 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+12:26:20.402 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+12:26:20.433 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expand drop down menu.
+12:26:20.514 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //a[8]
+12:26:20.573 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Select  option.
+12:56:45.092 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+12:56:45.133 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+12:56:46.415 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+12:56:46.613 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+12:56:46.720 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:56:48.615 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+12:56:49.619 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+12:56:49.660 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expand drop down menu.
+12:56:49.755 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //a[8]
+12:56:49.810 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Select  option.
+12:56:49.866 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: file-upload-field is present
+12:56:49.979 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: file-upload-field
+12:57:20.176 [TestNG-test=Set-1] ERROR website.pages.BasePage - Element By.id: file-upload-field was not found within the specified timeout
+12:57:47.795 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+12:57:47.839 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+12:57:49.483 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+12:57:49.681 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+12:57:49.769 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:57:51.338 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+12:57:52.305 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+12:57:52.335 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expand drop down menu.
+12:57:52.427 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //*a[8]
+12:57:52.477 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: file-upload-field is present
+12:57:52.588 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: file-upload-field
+12:58:22.669 [TestNG-test=Set-1] ERROR website.pages.BasePage - Element By.id: file-upload-field was not found within the specified timeout
+12:58:51.378 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+12:58:51.420 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+12:58:53.080 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+12:58:53.282 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+12:58:53.371 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+12:58:54.976 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+12:58:55.910 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+12:58:55.939 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expand drop down menu.
+12:58:56.025 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: a:nth-child(8)
+12:58:56.070 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Select  option.
+12:58:56.103 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: file-upload-field is present
+12:58:56.217 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: file-upload-field
+12:59:26.679 [TestNG-test=Set-1] ERROR website.pages.BasePage - Element By.id: file-upload-field was not found within the specified timeout
+13:05:53.710 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:05:53.764 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:05:55.470 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:05:55.668 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:05:55.791 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:05:57.377 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+13:05:58.319 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:05:58.343 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expanding drop-down menu.
+13:06:20.118 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: a:nth-child(8) is present
+13:06:20.226 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: a:nth-child(8)
+13:06:57.050 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:06:57.102 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:06:59.000 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:06:59.225 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:06:59.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:07:01.224 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+13:07:02.227 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:07:02.256 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expanding drop-down menu.
+13:07:02.341 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: a:nth-child(8) is present
+13:07:02.452 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: a:nth-child(8)
+13:07:21.185 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:07:21.238 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:07:23.269 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:07:23.559 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:07:23.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+13:07:26.166 [main] INFO  website.pages.DropDownPage - Opening DropDownPage
+13:07:27.154 [main] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:07:27.199 [main] INFO  website.pages.DropDownPage - Expanding drop-down menu.
+13:07:27.317 [main] INFO  website.pages.BasePage - Asserting element By.cssSelector: a:nth-child(8) is present
+13:07:27.434 [main] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: a:nth-child(8)
+13:08:52.671 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:08:52.727 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:08:54.729 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:08:54.991 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:08:55.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:08:57.200 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+13:08:58.187 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:10:12.681 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expanding drop-down menu.
+13:10:12.799 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: a:nth-child(8) is present
+13:10:12.913 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: a:nth-child(8)
+13:10:47.518 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:10:47.568 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:10:49.295 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:10:49.493 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:10:49.612 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:10:51.350 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+13:10:52.292 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: dropdownMenuButton is present
+13:10:52.403 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:10:52.472 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:11:08.576 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expanding drop-down menu.
+13:11:08.656 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: a:nth-child(8) is present
+13:11:08.759 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: a:nth-child(8)
+13:11:39.310 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:11:39.378 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:11:41.223 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:11:41.464 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:11:41.583 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:11:43.555 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+13:11:44.494 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: dropdownMenuButton is present
+13:11:44.600 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:11:44.680 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:11:44.701 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expanding drop-down menu.
+13:11:44.793 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: a:nth-child(8) is present
+13:11:44.898 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: a:nth-child(8)
+13:14:12.318 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:14:12.382 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:14:14.345 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:14:14.536 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:14:14.627 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:14:16.212 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Opening DropDownPage
+13:14:17.185 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: dropdownMenuButton is present
+13:14:17.292 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:14:17.369 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:14:17.387 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Expanding drop-down menu.
+13:14:17.465 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.partialLinkText: File Upload is present
+13:14:17.574 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.partialLinkText: File Upload
+13:14:17.634 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.partialLinkText: File Upload
+13:14:17.675 [TestNG-test=Set-1] INFO  website.pages.DropDownPage - Select File Upload option.
+13:14:17.746 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: file-upload-field is present
+13:14:17.858 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: file-upload-field
+13:51:28.544 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:51:28.644 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:51:30.079 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:51:30.247 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:51:30.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:51:33.472 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+13:51:33.472 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+13:51:33.472 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+13:51:34.600 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:51:34.670 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:51:34.742 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+13:51:34.772 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+13:51:34.812 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+13:51:34.831 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+13:51:34.877 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:51:34.915 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+13:51:34.948 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:51:34.993 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+13:51:35.014 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+13:51:35.060 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+13:51:35.076 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+13:51:35.099 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:51:35.100 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+13:51:35.184 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+13:51:35.217 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+13:51:35.500 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+13:51:35.703 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:51:37.284 [TestNG-test=Set-2] INFO  website.pages.DropDownPage - Opening DropDownPage
+13:51:37.745 [TestNG-test=Set-1] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+13:51:37.993 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: dropdownMenuButton is present
+13:51:38.096 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:51:38.406 [TestNG-test=Set-3] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+13:51:38.816 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: dropdownMenuButton
+13:51:38.841 [TestNG-test=Set-2] INFO  website.pages.DropDownPage - Expanding drop-down menu.
+13:51:38.965 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.partialLinkText: File Upload is present
+13:51:39.042 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+13:51:39.078 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.partialLinkText: File Upload
+13:51:39.110 [TestNG-test=Set-1] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+13:51:39.157 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.partialLinkText: File Upload
+13:51:39.214 [TestNG-test=Set-2] INFO  website.pages.DropDownPage - Select File Upload option.
+13:51:39.217 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+13:51:39.327 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+13:51:39.358 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: file-upload-field is present
+13:51:39.458 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:51:39.469 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: file-upload-field
+13:51:39.499 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:51:39.535 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:51:39.824 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:51:39.845 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:51:39.869 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:51:39.958 [TestNG-test=Set-1] INFO  website.pages.BasePage - Screenshot saved: logs/screenshots/assertElementPresentFailure_1706709099432_20240131_135139.png
+13:51:40.074 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:51:40.097 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:51:40.121 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:51:41.641 [TestNG-test=Set-2] INFO  website.pages.ScrollPage - Opening ScrollPage
+13:51:42.411 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+13:51:43.327 [TestNG-test=Set-2] INFO  website.pages.ScrollPage - Moving to Full Name element
+13:51:43.329 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:51:43.484 [TestNG-test=Set-3] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+13:51:43.635 [TestNG-test=Set-2] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+13:51:43.636 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:51:43.859 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+13:51:43.961 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: name is present
+13:51:43.970 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+13:51:44.062 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:51:44.133 [TestNG-test=Set-2] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+13:51:44.133 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: date
+13:51:44.361 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: date is present
+13:51:44.364 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+13:51:44.365 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+13:51:44.466 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: date
+13:51:44.514 [TestNG-test=Set-3] INFO  website.pages.KeyPressPage - Entering name: Rich
+13:51:44.514 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+13:51:44.574 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+13:51:44.680 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+13:51:44.767 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+13:51:44.767 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+13:51:44.844 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+13:51:44.869 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+13:51:44.925 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+13:51:44.947 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+13:51:44.976 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+13:51:44.992 [TestNG-test=Set-3] INFO  website.pages.KeyPressPage - Clicking button
+13:51:44.993 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+13:51:45.066 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+13:51:45.077 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+13:51:45.091 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+13:51:45.198 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']

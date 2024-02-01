@@ -1,0 +1,28 @@
+<!-- logback.xml -->
+<configuration>
+
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/website.log</file>
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>logs/website.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <!-- Rotate daily -->
+        </rollingPolicy>
+    </appender>
+
+    <logger name="website" level="INFO"/> <!-- Set the logging level to INFO for the 'website' package -->
+
+    <!-- Configure root logger to use both CONSOLE and FILE appenders -->
+    <root level="INFO">
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="FILE"/>
+    </root>
+</configuration>

@@ -1,0 +1,1024 @@
+13:50:36.947 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:50:37.037 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:50:38.451 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:50:38.646 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:50:38.786 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:50:42.552 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+13:50:42.552 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+13:50:42.552 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+13:50:43.771 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+13:50:43.816 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:50:43.867 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+13:50:44.311 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+13:50:44.387 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:50:44.414 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+13:50:44.435 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+13:50:44.516 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+13:50:44.570 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:50:44.676 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+13:50:44.678 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+13:50:44.838 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:50:44.893 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:50:44.987 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+13:50:45.033 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+13:50:45.145 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+13:50:45.159 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+13:50:45.574 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+13:50:45.788 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:50:47.306 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+13:50:48.582 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+13:50:49.110 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+13:50:49.294 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+13:50:49.517 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+13:50:49.622 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+13:50:49.804 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+13:50:49.843 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:50:49.982 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:50:50.198 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+13:50:50.211 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:50:50.428 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+13:50:50.560 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+13:50:50.990 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+13:50:51.117 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:50:51.152 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:50:51.194 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:50:51.464 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:50:51.504 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:50:51.535 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:50:52.249 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+13:50:52.250 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:50:52.534 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+13:50:52.535 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:50:53.114 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+13:50:53.298 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+13:50:53.410 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:50:53.496 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+13:50:53.497 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+13:50:53.737 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+13:50:53.845 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+13:50:54.568 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+13:50:54.793 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+13:50:55.018 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+13:50:55.524 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+13:50:55.525 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+13:50:55.731 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+13:50:55.812 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+13:50:55.945 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+13:50:55.946 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+13:50:56.053 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+13:50:56.054 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+13:50:56.059 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+13:50:56.150 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+13:50:56.220 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+13:50:56.364 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+13:50:56.383 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+13:50:56.422 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+13:50:56.528 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+13:50:56.621 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+13:50:56.621 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+13:50:56.817 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+13:50:56.927 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+13:52:36.548 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+13:52:36.591 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13:52:38.255 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+13:52:38.488 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+13:52:38.597 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+13:52:41.308 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+13:52:41.309 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+13:52:41.309 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+13:52:42.270 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+13:52:42.313 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+13:52:42.419 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:52:42.421 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:52:42.498 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+13:52:42.673 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is present from element By.id: datepicker
+13:52:42.696 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+13:52:42.700 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:52:42.744 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:52:42.749 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+13:52:42.776 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+13:52:42.777 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+13:52:42.881 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+13:52:42.888 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+13:52:42.923 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+13:52:43.015 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+13:52:43.201 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+13:52:43.227 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+13:52:43.436 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+13:52:44.505 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+13:52:45.260 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+13:52:45.822 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:52:45.835 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+13:52:46.072 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+13:52:46.108 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+13:52:46.287 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+13:52:46.394 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+13:52:46.481 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+13:52:46.535 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+13:52:46.565 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+13:52:46.611 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:52:46.654 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:52:46.673 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+13:52:46.955 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:52:46.989 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:52:47.017 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:52:47.131 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+13:52:47.132 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:52:47.239 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+13:52:47.257 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+13:52:47.274 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+13:52:47.348 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+13:52:47.349 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:52:47.604 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+13:52:47.716 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+13:52:47.813 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+13:52:47.814 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+13:52:48.244 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+13:52:48.355 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+13:52:48.416 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+13:52:48.889 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+13:52:49.475 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+13:52:49.736 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+13:52:50.134 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+13:52:50.135 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+13:52:50.347 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+13:52:50.401 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+13:52:50.403 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+13:52:50.403 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+13:52:50.456 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+13:52:50.456 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+13:52:50.564 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+13:52:50.604 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+13:52:50.619 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+13:52:50.656 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+13:52:50.705 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+13:52:50.715 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+13:52:50.728 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+13:52:50.793 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+13:52:50.793 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+13:52:50.902 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+13:52:51.017 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+14:02:29.407 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+14:02:29.480 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+14:02:31.963 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+14:02:32.197 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+14:02:32.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+14:02:35.475 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+14:02:35.475 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+14:02:35.475 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+14:02:38.468 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+14:02:38.554 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+14:02:38.765 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+14:02:38.828 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+14:02:38.855 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+14:02:38.954 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+14:02:39.314 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+14:02:39.515 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+14:02:39.995 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+14:02:40.316 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+14:02:40.380 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+14:02:40.442 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+14:02:40.910 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+14:02:41.075 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+14:02:41.183 [TestNG-test=Set-3] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+14:02:41.364 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+14:03:03.982 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+14:03:03.984 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+14:03:04.052 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+14:03:04.074 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+14:03:04.157 [TestNG-test=Set-3] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+14:03:04.389 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+14:03:04.497 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+14:03:04.702 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+14:07:20.228 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is present from element By.id: datepicker
+14:07:20.252 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+14:07:20.255 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+14:07:20.301 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+14:07:20.341 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+14:07:20.368 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+14:07:20.430 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+14:07:20.712 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+14:07:20.744 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+14:07:20.774 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+14:07:20.993 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+14:07:21.022 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+14:07:21.051 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+14:07:22.847 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+14:07:22.850 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+14:07:24.513 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+14:07:24.549 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+14:07:24.550 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+14:07:24.803 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+14:07:24.804 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+14:07:25.031 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+14:07:25.135 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+14:07:25.223 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+14:07:25.223 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+14:07:25.445 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+14:07:25.548 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+14:07:25.695 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+14:07:25.827 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+14:07:25.854 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+14:07:25.855 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+14:07:26.161 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+14:07:26.271 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+14:07:26.372 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+14:07:26.373 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+14:07:26.474 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+14:07:26.475 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+14:07:26.509 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+14:07:26.613 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+14:07:26.692 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+14:07:26.781 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+14:07:26.860 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+14:07:26.861 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+14:07:26.969 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+14:07:27.033 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+14:07:27.081 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+14:07:27.157 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+14:07:27.172 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+19:53:59.293 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+19:53:59.316 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+19:54:00.145 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+19:54:00.292 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+19:54:00.372 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+19:54:02.465 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+19:54:02.465 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+19:54:02.465 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+19:54:03.442 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+19:54:03.460 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+19:54:03.484 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+19:54:03.513 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+19:54:03.518 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+19:54:03.623 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+19:54:03.658 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+19:54:03.693 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+19:54:03.723 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+19:54:03.750 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+19:54:03.758 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+19:54:03.777 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+19:54:03.803 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+19:54:03.835 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+19:54:03.848 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+19:54:03.864 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+19:54:03.950 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+19:54:04.189 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+19:54:04.395 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+19:54:05.564 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+19:54:05.672 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+19:54:06.479 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+19:54:06.634 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+19:54:06.714 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+19:54:06.777 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+19:54:06.811 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+19:54:06.816 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+19:54:06.840 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+19:54:06.930 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+19:54:06.994 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+19:54:07.033 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+19:54:07.051 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+19:54:07.075 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+19:54:07.090 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+19:54:07.105 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+19:54:07.163 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+19:54:07.226 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+19:54:07.251 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+19:54:07.273 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+19:54:08.264 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+19:54:08.265 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+19:54:08.499 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+19:54:08.636 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+19:54:08.637 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+19:54:08.932 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+19:54:09.046 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+19:54:09.155 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+19:54:09.206 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+19:54:09.207 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+19:54:09.346 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+19:54:09.450 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+19:54:09.503 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+19:54:09.595 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+19:54:09.866 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+19:54:09.867 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+19:54:09.956 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+19:54:09.957 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+19:54:10.050 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+19:54:10.162 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+19:54:10.162 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+19:54:10.201 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+19:54:10.202 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+19:54:10.202 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+19:54:10.233 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+19:54:10.234 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+19:54:10.282 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+19:54:10.334 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+19:54:10.367 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+19:54:10.390 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+19:54:10.396 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+19:54:10.432 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+19:54:10.440 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+19:56:44.733 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+19:56:44.793 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+19:56:46.518 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+19:56:46.748 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+19:56:46.877 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+19:56:48.905 [main] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+19:56:49.893 [main] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+19:56:49.926 [main] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+19:56:50.180 [main] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+19:56:50.287 [main] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:04:05.107 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:04:05.139 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:04:06.511 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:04:06.673 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:04:06.745 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+20:04:08.880 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+20:04:08.881 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:04:08.881 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+20:04:09.927 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:04:09.967 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:04:10.017 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:04:10.087 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+20:04:10.104 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:04:10.250 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:04:10.293 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:04:10.302 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:04:10.332 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+20:04:10.341 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:04:10.349 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+20:04:10.355 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:04:10.372 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:04:10.471 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+20:04:10.573 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:04:10.613 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:04:10.751 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:04:10.804 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+20:04:11.014 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:04:11.931 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+20:04:12.478 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:04:12.548 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+20:04:13.137 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+20:04:13.447 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+20:04:13.585 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+20:04:13.700 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:04:13.738 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:04:13.781 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:04:13.793 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:04:13.819 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:04:13.844 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+20:04:13.869 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+20:04:13.978 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:04:14.071 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:04:14.097 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:04:14.120 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:04:14.200 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+20:04:14.201 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:04:14.294 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:04:14.312 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:04:14.326 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:04:14.381 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+20:04:14.381 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:04:14.560 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+20:04:14.662 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:04:14.707 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+20:04:14.708 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:04:14.888 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+20:04:15.000 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:04:15.582 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+20:04:16.366 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+20:04:16.756 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:04:16.815 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+20:04:17.104 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:04:17.105 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+20:04:17.291 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+20:04:17.291 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:04:17.310 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+20:04:17.357 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+20:04:17.397 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:04:17.398 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+20:04:17.450 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+20:04:17.499 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:04:17.537 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+20:04:17.561 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:04:17.577 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+20:04:17.606 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+20:04:17.607 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:04:17.642 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+20:04:17.654 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+20:04:17.807 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+20:04:17.918 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:04:46.253 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:04:46.297 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:04:47.762 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:04:47.987 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:04:48.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+20:04:49.828 [main] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:04:50.771 [main] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:04:50.799 [main] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:04:50.997 [main] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:04:51.098 [main] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:10:23.051 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:10:23.116 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:10:24.632 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:10:24.796 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:10:24.877 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+20:10:27.823 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+20:10:27.823 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:10:27.824 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+20:10:28.829 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:10:28.947 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:10:29.003 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:10:29.030 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:10:29.125 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+20:10:29.131 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:10:29.178 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:10:29.226 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:10:29.329 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:10:29.388 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+20:10:29.391 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:10:29.408 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+20:10:29.412 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:10:29.470 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:10:29.503 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:10:29.515 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+20:10:29.614 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:10:29.846 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+20:10:30.053 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:10:31.409 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+20:10:31.636 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+20:10:31.913 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:10:32.167 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:10:32.513 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+20:10:32.709 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+20:10:32.824 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+20:10:32.880 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:10:32.935 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:10:32.939 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:10:33.056 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:10:33.110 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+20:10:33.133 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+20:10:33.234 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:10:33.242 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:10:33.265 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:10:33.303 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:10:33.535 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+20:10:33.536 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:10:33.561 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:10:33.593 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:10:33.626 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:10:33.737 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+20:10:33.738 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:10:33.968 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+20:10:34.077 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:10:34.165 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+20:10:34.166 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:10:34.546 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+20:10:34.653 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:10:34.739 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+20:10:35.444 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+20:10:36.082 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:10:36.131 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+20:10:36.455 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+20:10:36.455 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:10:36.529 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:10:36.530 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+20:10:36.624 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+20:10:36.738 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+20:10:36.738 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:10:36.771 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+20:10:36.775 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+20:10:36.775 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:10:36.807 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:10:36.807 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+20:10:36.848 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+20:10:36.909 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:10:36.946 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+20:10:36.957 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:10:36.978 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+20:10:37.048 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+20:10:37.060 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+20:10:53.247 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:10:53.293 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:10:54.951 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:10:55.150 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:10:55.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+20:10:56.930 [main] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:10:57.836 [main] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:10:57.867 [main] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:10:58.076 [main] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:10:58.182 [main] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:13:08.895 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:13:08.939 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:13:10.493 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:13:10.668 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:13:10.764 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+20:13:12.324 [main] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:13:13.244 [main] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:13:13.265 [main] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:13:13.425 [main] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:13:13.530 [main] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:14:05.860 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:14:05.906 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:14:07.324 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:14:07.524 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:14:07.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+20:14:09.913 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+20:14:09.913 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:14:09.913 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+20:14:10.930 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:14:10.964 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:14:11.022 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:14:11.181 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:14:11.229 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:14:11.230 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:14:11.245 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+20:14:11.264 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:14:11.293 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:14:11.339 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:14:11.397 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:14:11.431 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:14:11.448 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:14:11.526 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+20:14:11.554 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+20:14:11.639 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+20:14:11.648 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:14:11.992 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+20:14:12.206 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:14:12.863 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+20:14:13.496 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+20:14:13.876 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:14:14.012 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+20:14:14.276 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+20:14:14.379 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:14:14.560 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:14:14.568 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+20:14:14.682 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+20:14:14.717 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+20:14:14.751 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:14:14.799 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:14:14.828 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:14:14.843 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:14:15.108 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:14:15.130 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:14:15.149 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:14:15.292 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:14:15.306 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:14:15.319 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:14:15.594 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+20:14:15.594 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:14:15.808 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+20:14:15.809 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:14:16.292 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+20:14:16.303 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+20:14:16.409 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:14:16.461 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+20:14:16.461 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:14:16.566 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+20:14:16.673 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:14:17.312 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+20:14:17.404 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:14:17.488 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+20:14:17.826 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:14:17.827 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+20:14:18.033 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+20:14:18.075 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+20:14:18.115 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:14:18.115 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+20:14:18.217 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:14:18.262 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+20:14:18.297 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+20:14:18.323 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+20:14:18.324 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:14:18.363 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+20:14:18.373 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+20:14:18.521 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+20:14:18.622 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:14:18.665 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+20:14:18.665 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:14:18.736 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+20:14:18.841 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:31:09.797 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:31:09.826 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:31:11.109 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:31:11.280 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:31:11.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+20:31:13.423 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+20:31:13.423 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:31:13.423 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+20:31:15.835 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:31:15.858 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:31:16.036 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:31:16.069 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:31:16.116 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+20:31:16.141 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:31:16.274 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:31:16.324 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:31:16.374 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+20:31:16.399 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+20:31:16.474 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:31:16.474 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+20:31:16.513 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:31:16.550 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:31:16.695 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:31:16.746 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:31:16.779 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+20:31:16.887 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:31:16.983 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:31:17.491 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+20:31:18.774 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:31:18.899 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+20:31:18.903 [TestNG-test=Set-3] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+20:31:18.938 [TestNG-test=Set-1] INFO  website.pages.ScrollPage - Opening ScrollPage
+20:31:19.070 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+20:31:19.176 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:31:19.253 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:31:19.301 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+20:31:19.324 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+20:31:19.438 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:31:19.932 [TestNG-test=Set-1] INFO  website.pages.ScrollPage - Moving to Full Name element
+20:31:19.933 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:31:20.039 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:31:20.076 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:31:20.104 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:31:20.127 [TestNG-test=Set-1] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+20:31:20.128 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:31:20.340 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:31:20.351 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: name is present
+20:31:20.365 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:31:20.391 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:31:20.468 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:31:20.573 [TestNG-test=Set-1] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+20:31:20.574 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:31:20.707 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:31:20.740 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:31:20.772 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:31:20.793 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: date is present
+20:31:20.808 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+20:31:20.904 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:31:21.972 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:31:22.117 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+20:31:22.311 [TestNG-test=Set-3] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+20:31:22.521 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:31:22.522 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+20:31:22.729 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+20:31:22.774 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+20:31:22.817 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:31:22.818 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+20:31:22.933 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:31:22.975 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+20:31:23.016 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+20:31:23.071 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+20:31:23.084 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+20:31:23.376 [TestNG-test=Set-3] INFO  website.pages.KeyPressPage - Entering name: Rich
+20:31:23.377 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:31:23.538 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+20:31:23.638 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:31:23.679 [TestNG-test=Set-3] INFO  website.pages.KeyPressPage - Clicking button
+20:31:23.679 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:31:23.754 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+20:31:23.860 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:31:49.539 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:31:49.578 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:31:50.896 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:31:51.084 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:31:51.158 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+20:31:53.701 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:31:53.702 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+20:31:53.702 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+20:31:54.680 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:31:54.680 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:31:54.712 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:31:54.729 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:31:54.778 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+20:31:54.946 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:31:54.986 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:31:55.003 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:31:55.031 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+20:31:55.039 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:31:55.055 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:31:55.066 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+20:31:55.138 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+20:31:55.160 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:31:55.170 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:31:55.223 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:31:55.496 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:31:55.514 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+20:31:55.726 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:31:56.923 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+20:31:58.072 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+20:31:58.360 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+20:31:58.454 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:31:58.571 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+20:31:58.705 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+20:31:58.812 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:31:58.890 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:31:58.962 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+20:31:58.992 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+20:31:59.094 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:31:59.104 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:31:59.155 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:31:59.221 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:31:59.490 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+20:31:59.491 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:31:59.575 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:31:59.615 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:31:59.648 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:31:59.706 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+20:31:59.706 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:31:59.786 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:31:59.805 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:31:59.829 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:31:59.876 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+20:31:59.983 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:32:00.066 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+20:32:00.066 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:32:00.309 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+20:32:00.432 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:32:00.957 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+20:32:02.118 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+20:32:02.329 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:32:02.406 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+20:32:02.738 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:32:02.738 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+20:32:02.945 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+20:32:02.990 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+20:32:03.026 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:32:03.026 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+20:32:03.132 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:32:03.177 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+20:32:03.210 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+20:32:03.262 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+20:32:03.271 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+20:32:03.439 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+20:32:03.440 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:32:03.620 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+20:32:03.722 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:32:03.763 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+20:32:03.764 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:32:03.847 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+20:32:03.956 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:32:56.151 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:32:56.199 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:32:57.687 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+20:32:57.864 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+20:32:57.967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+20:33:00.507 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+20:33:00.507 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+20:33:00.507 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+20:33:01.546 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:33:01.598 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:33:01.626 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+20:33:01.772 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:33:01.793 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:33:01.856 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:33:01.874 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+20:33:01.904 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+20:33:01.950 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+20:33:02.021 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:33:02.053 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+20:33:02.061 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+20:33:02.077 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:33:02.111 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+20:33:02.140 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+20:33:02.170 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+20:33:02.207 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+20:33:02.414 [TestNG-test=Set-2] INFO  website.pages.BasePage - Screenshot saved: logs/screenshots/assertionFailure_1706646782148_20240130_203302.png
+20:33:02.550 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+20:33:02.763 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+20:33:04.219 [TestNG-test=Set-1] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+20:33:04.565 [TestNG-test=Set-2] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+20:33:04.783 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:33:05.587 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+20:33:05.851 [TestNG-test=Set-1] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+20:33:05.925 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:33:05.964 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+20:33:05.970 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:33:06.011 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:33:06.076 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:33:06.153 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+20:33:06.200 [TestNG-test=Set-1] INFO  w.pages.JavaScriptExecutorPage - Running JavaScript to click Close button.
+20:33:06.226 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: modal-button is present
+20:33:06.260 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:33:06.285 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:33:06.316 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:33:06.340 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+20:33:06.504 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+20:33:06.530 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+20:33:06.549 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+20:33:06.608 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+20:33:06.608 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:33:06.783 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+20:33:06.783 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:33:06.987 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+20:33:07.089 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+20:33:07.138 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+20:33:07.138 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:33:07.350 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+20:33:07.489 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+20:33:08.018 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+20:33:08.323 [TestNG-test=Set-2] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+20:33:09.090 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:33:09.140 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+20:33:09.327 [TestNG-test=Set-2] INFO  website.pages.KeyPressPage - Entering name: Rich
+20:33:09.328 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:33:09.445 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:33:09.445 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+20:33:09.492 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+20:33:09.595 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+20:33:09.627 [TestNG-test=Set-2] INFO  website.pages.KeyPressPage - Clicking button
+20:33:09.627 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:33:09.658 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+20:33:09.686 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+20:33:09.689 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+20:33:09.717 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+20:33:09.717 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+20:33:09.800 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+20:33:09.832 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+20:33:09.916 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+20:33:09.954 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+20:33:10.017 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+20:33:10.026 [TestNG-test=Set-1] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+21:23:52.032 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+21:23:52.073 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+21:23:53.111 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+21:23:53.324 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+21:23:53.444 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+21:23:56.941 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+21:23:56.941 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+21:23:56.941 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+21:23:58.118 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+21:23:58.192 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+21:23:58.232 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+21:23:58.389 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+21:23:58.533 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+21:23:58.742 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+21:23:58.748 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+21:23:58.807 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+21:23:58.841 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+21:23:58.841 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+21:23:58.895 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+21:23:58.910 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+21:23:58.920 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+21:23:59.074 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+21:23:59.189 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+21:23:59.270 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+21:23:59.522 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+21:23:59.540 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+21:23:59.754 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+21:24:01.090 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+21:24:02.533 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+21:24:02.661 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+21:24:02.779 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+21:24:03.091 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+21:24:03.246 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+21:24:03.362 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+21:24:03.957 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+21:24:04.016 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+21:24:04.068 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+21:24:04.383 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+21:24:04.385 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+21:24:04.406 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+21:24:04.438 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+21:24:04.468 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+21:24:04.613 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+21:24:04.614 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+21:24:04.703 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+21:24:04.736 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+21:24:04.763 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+21:24:04.882 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+21:24:04.986 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+21:24:05.177 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+21:24:05.177 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+21:24:05.574 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+21:24:05.685 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+21:24:05.798 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+21:24:06.947 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+21:24:07.127 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+21:24:07.248 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+21:24:07.690 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+21:24:07.691 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+21:24:07.899 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+21:24:07.973 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+21:24:08.038 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+21:24:08.039 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+21:24:08.148 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+21:24:08.229 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+21:24:08.294 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+21:24:08.297 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+21:24:08.297 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+21:24:08.405 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+21:24:08.424 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+21:24:08.604 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+21:24:08.711 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+21:24:08.793 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+21:24:08.793 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+21:24:08.932 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+21:24:09.044 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+21:24:23.567 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+21:24:23.600 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\richa\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+21:24:24.938 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+21:24:25.110 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\richa\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+21:24:25.189 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\OneDrive\Documents\Selenium Projects\Selenium_Essential_Training\testng.xml
+
+21:24:28.079 [TestNG-test=Set-1] INFO  website.pages.CheckBoxPage - Opening CheckBoxPage
+21:24:28.079 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Opening DragAndDropPage
+21:24:28.079 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Opening DatePickerPage
+21:24:29.062 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+21:24:29.113 [TestNG-test=Set-2] INFO  website.pages.DatePickerPage - Selecting 01/01/2024 in date field.
+21:24:29.127 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+21:24:29.160 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+21:24:29.245 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Drop here is present from element By.cssSelector: #box > p
+21:24:29.363 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+21:24:29.435 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+21:24:29.461 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+21:24:29.466 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text 01/01/2024 is entered in element By.id: datepicker
+21:24:29.481 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-2
+21:24:29.514 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: image
+21:24:29.542 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: box
+21:24:29.571 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: datepicker
+21:24:29.661 [TestNG-test=Set-3] INFO  website.pages.DragAndDropPage - Dragging null image to Drop here box.
+21:24:29.666 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+21:24:29.755 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-1
+21:24:29.965 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #checkbox-3
+21:24:30.024 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting text Dropped! is present from element By.cssSelector: #box > p
+21:24:30.229 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: #box > p
+21:24:31.297 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Opening JavaScriptExecutorPage
+21:24:31.997 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: modal-button
+21:24:32.550 [TestNG-test=Set-1] INFO  website.pages.RadioButtonPage - Opening RadioButtonPage
+21:24:32.809 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Opening ScrollPage
+21:24:32.877 [TestNG-test=Set-2] INFO  w.pages.JavaScriptExecutorPage - Clicking Open modal button.
+21:24:33.023 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: close-button is present
+21:24:33.127 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: close-button
+21:24:33.606 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+21:24:33.652 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+21:24:33.703 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+21:24:33.886 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Moving to Full Name element
+21:24:33.886 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+21:24:33.992 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+21:24:34.016 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+21:24:34.038 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+21:24:34.076 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Full Name: Rich C
+21:24:34.077 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+21:24:34.185 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.id: radio-button-1
+21:24:34.200 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[value='option2']
+21:24:34.219 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.xpath: //div[3]/input
+21:24:34.255 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: name is present
+21:24:34.360 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: name
+21:24:34.531 [TestNG-test=Set-3] INFO  website.pages.ScrollPage - Entering Date: 01/01/2024
+21:24:34.531 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+21:24:34.876 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Opening SwitchWindowPage
+21:24:34.953 [TestNG-test=Set-3] INFO  website.pages.BasePage - Asserting element By.id: date is present
+21:24:35.055 [TestNG-test=Set-3] INFO  website.pages.BasePage - Waiting for element: By.id: date
+21:24:35.985 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+21:24:36.113 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open new tab button.
+21:24:36.198 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Opening KeyPressPage
+21:24:36.510 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+21:24:36.511 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting text Welcome to Formy is present from element By.cssSelector: h1[class='display-3']
+21:24:36.713 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: h1[class='display-3']
+21:24:36.753 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Original Tab.
+21:24:36.788 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Formy tab.
+21:24:36.789 [TestNG-test=Set-2] INFO  website.pages.BasePage - Asserting element By.id: new-tab-button is present
+21:24:36.898 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: new-tab-button
+21:24:36.933 [TestNG-test=Set-2] INFO  website.pages.BasePage - Waiting for element: By.id: alert-button
+21:24:36.959 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Clicking Open alert button.
+21:24:37.008 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Switching to Alert.
+21:24:37.018 [TestNG-test=Set-2] INFO  website.pages.SwitchWindowPage - Accepting Alert.
+21:24:37.179 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Entering name: Rich
+21:24:37.179 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+21:24:37.321 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: input[type='text'] is present
+21:24:37.428 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: input[type='text']
+21:24:37.465 [TestNG-test=Set-1] INFO  website.pages.KeyPressPage - Clicking button
+21:24:37.465 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
+21:24:37.540 [TestNG-test=Set-1] INFO  website.pages.BasePage - Asserting element By.cssSelector: button[id='button'] is present
+21:24:37.649 [TestNG-test=Set-1] INFO  website.pages.BasePage - Waiting for element: By.cssSelector: button[id='button']
